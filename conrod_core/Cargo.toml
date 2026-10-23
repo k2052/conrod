@@ -22,7 +22,7 @@ wasm-bindgen = [ "instant/wasm-bindgen" ]
 
 [dependencies]
 conrod_derive = { path = "../conrod_derive", version = "0.76" }
-daggy = "0.5"
+daggy = "0.7"
 fnv = "1.0"
 num = "0.3"
 pistoncore-input = "1.0.0"
